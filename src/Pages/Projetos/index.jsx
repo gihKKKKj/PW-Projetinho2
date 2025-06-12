@@ -1,6 +1,6 @@
-import Header from '../../Components/Header'
-import Footer from '../../Components/Footer'
-import Container from '../../Components/container'
+import Header from '../../components/header'
+import Footer from '../../components/footer'
+import Container from '../../components/container'
 
 
 function Projetos() {
